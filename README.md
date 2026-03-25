@@ -108,13 +108,15 @@ site-11 → L2TP/IPSec IKEv2   (distance 10, fallback)
 
 ## Diagrams
 
-| File | Description |
-|---|---|
-| [`diagrams/logical-diagram.xml`](diagrams/logical-diagram.xml) | Full logical topology: routing, VLANs, subnets per site |
-| [`diagrams/physical-diagram.xml`](diagrams/physical-diagram.xml) | Physical connectivity: devices, ports, ISP uplinks |
-| [`diagrams/its-diagram.xml`](diagrams/its-diagram.xml) | IT systems overview: server farm, virtualization, security |
+Open directly in browser (no download needed):
 
-Open with [app.diagrams.net](https://app.diagrams.net) → File → Open from device.
+| Diagram | Description | Open |
+|---|---|---|
+| Logical topology | Routing, VLANs, subnets per site, VPN tunnels | [▶ Open](https://app.diagrams.net/#Hleobayker/network-infrastructure/main/diagrams/logical-diagram.xml) |
+| Physical topology | Devices, ports, ISP uplinks, cabling | [▶ Open](https://app.diagrams.net/#Hleobayker/network-infrastructure/main/diagrams/physical-diagram.xml) |
+| IT systems overview | Server farm, virtualization, security stack | [▶ Open](https://app.diagrams.net/#Hleobayker/network-infrastructure/main/diagrams/its-diagram.xml) |
+
+Or download and open locally: [app.diagrams.net](https://app.diagrams.net) → File → Open from device.
 
 ---
 
